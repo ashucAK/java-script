@@ -16,5 +16,11 @@ let students = 20;
 
 //console.log(extraStudents);
 
+/*operator precedence
+1-parenthesis()
+2-exponents
+3-multiplication and divison
+4-addition and substraction*/
+
 let result =(1 + 2) * (3 + 4);
 console.log(result);
