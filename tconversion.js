@@ -21,11 +21,11 @@ let y;
 
 let z;
 
-x = Number(-15);
+x = Number(-15);            // to convert any no from it's state to other use that name constructor
 
 y = String(3.14);
 
-z = Boolean("burger");
+z = Boolean("burger");      // if it's empty it will result in false 
 
 console.log(x, typeof x);
 
