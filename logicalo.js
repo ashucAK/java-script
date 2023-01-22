@@ -52,7 +52,7 @@ while(userName == "" || userName == null){
 console.log("Hello", userName);
 */
 
-// do while loop = do something,
+/*// do while loop = do something,
 
 // then check the condition, repeat if condition is true
 
@@ -62,7 +62,15 @@ do{
     userName = window.prompt("Enter Your name");
 }while(userName == "")
 console.log("YOO", userName);
+*/
 
+// for loop = it repeats some code a certain amount of times
+
+for(let i = 1; i <= 10; i+=1){
+    console.log(i)
+}
+
+console.log("Hii ashu are you fine.")
 
 
 
