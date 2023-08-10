@@ -2,7 +2,7 @@
 console.log("It's really good!");
 window.alert("Welcome to my page");
 
-//This is a comment
+//This is a comment. 
 
 This is a
 multiline comment
